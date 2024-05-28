@@ -13,7 +13,8 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.innovate-tech"
     },
     "android": {
       "adaptiveIcon": {
@@ -27,7 +28,9 @@
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
-      "expo-router"
+      "expo-router",
+      "expo-font",
+      "@config-plugins/detox"
     ],
     "experiments": {
       "typedRoutes": true
