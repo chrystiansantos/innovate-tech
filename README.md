@@ -22,12 +22,13 @@ Instale as dependências
 ❯ npm install
 ```
 
+Copie o arquivo .env.example, renomeie-o para .env e atualize as variáveis de ambiente conforme necessário.
+
 Inicie o app
 
 ```bash
 ❯ npx expo start
 ```
-Copie o arquivo .env.example, renomeie-o para .env e atualize as variáveis de ambiente conforme necessário.
 
 A seguir, siga um dos tutoriais para executar o projeto.
 
